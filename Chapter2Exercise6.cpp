@@ -1,7 +1,7 @@
 /*
 
 file name:Chapter2exercise6.cpp
-GitHub URL
+GitHub URL: https://github.com/Yaqoob7803/Chapter2Exercise6/blob/main/Chapter2Exercise6.cpp
 programmer:Yaqoob Nagi
 Date:Feburary 2025
 Requirements:
